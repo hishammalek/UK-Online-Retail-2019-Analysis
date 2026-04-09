@@ -11,7 +11,7 @@ Analyzed the **UK Online Retail 2019** dataset to uncover:
 - Actionable business insights
 
 **Python**: data cleaning, EDA, statistical analysis, RFM segmentation and visualizations
-**Power BI**: interactive dashboard f& advanced visuals
+**Power BI**: interactive dashboard & advanced visuals
 
 The goal is to provide insights for marketing, inventory and operational decision-making.
 ---
@@ -48,7 +48,7 @@ Used for data cleaning, analysis, segmentation, and charting
 - **Step 5 - Monthly Sales Trend Analysis**: dual-axis line chart for revenue & total orders, annotated key peaks/dips
 - **Step 6 - Product Performance Analysis**: calculated top products, segmented into Star/Moderate/Growth/Low, visualized with pie chart & top-10 tables
 - **Step 7 - Business Recommendations**: retention, marketing, inventory, conversions
-- **Step 8 - Limitiations & Next Steps**: noted dataset timeframe limits, missing marketing data, suggested Power BI dashboards and forecasting for the future.
+- **Step 8 - Limitations & Next Steps**: noted dataset timeframe limits, missing marketing data, suggested Power BI dashboards and forecasting for the future.
 
 ---
 
@@ -98,5 +98,5 @@ Used for data cleaning, analysis, segmentation, and charting
 ## **Dashboard Preview**
 ![UK Online Retail 2019 Dashboard](assets/uk_online_retail_2019_dashboard.png)
 
-*Explore the interactive dashboard in Power BI for full insights on customer behavior, revenue trends and product performance.*
+Click on the Power BI file in the `powerbi/` folder to explore the interactive dashboard.
 
