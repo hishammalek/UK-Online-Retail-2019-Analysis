@@ -23,10 +23,13 @@ The goal is to provide insights for marketing, inventory and operational decisio
 
 ### Python
 Used for data cleaning, analysis, segmentation, and charting
-- pandas 
-- numpy 
-- matplotlib 
-
+- pandas           —  data manipulation and analysis
+- numpy            —  numerical computations
+- matplotlib       —  basic plotting and charting
+- seaborn          —  statistical data visualization
+- os               —  file/folder management
+- IPython.display  —  display DataFrames nicely in notebooks
+- matplotlib.ticker.FuncFormatter —  custome axis formatting in charts
 
 ### Power BI
 - Interactive Dashboard for stakeholders
