@@ -96,4 +96,7 @@ Used for data cleaning, analysis, segmentation, and charting
 ---
 
 ## **Dashboard Preview**
+![UK Online Retail 2019 Dashboard](assets/uk_online_retail_2019_dashboard.png)
+
+*Explore the interactive dashboard in Power BI for full insights on customer behavior, revenue trends and product performance.*
 
