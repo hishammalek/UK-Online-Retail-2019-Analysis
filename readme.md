@@ -88,7 +88,10 @@ Used for data cleaning, analysis, segmentation, and charting
 - Invest in data-driven personalizations
 
 ## **Files Included**
-- *UK_Online_Retail_2019_Dashboard.csv*
+- data_clean/uk_online_retail_2019_clean.csv - Cleaned dataset used for analysis
+- notebooks/uk_online_retail_2019_analysis.ipynb - Python notebook with EDA, visualizations & RFM and products segmentations.
+- powerbi/uk_online_retail_2019_dashboard.pbix - Interactive Power BI dashboard
+- assets/ - Output charts and visualizations
 
 ---
 
