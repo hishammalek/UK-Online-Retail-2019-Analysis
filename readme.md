@@ -1,6 +1,7 @@
 # **UK Online Retail Analysis (Dec 2018 - Dec 2019)**
 **Python & Power BI | Customer, Revenue Trends & Product Performance Insights**
-[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
+
+[![Python](https://img.shields.io/badge/Python-3.14-blue)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-green)](https://powerbi.microsoft.com/)
 
 ---
